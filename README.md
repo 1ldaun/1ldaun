@@ -1,16 +1,16 @@
-### Hi there 👋
+### :man_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-<!--
-**1ldaun/1ldaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :seedling: Exploring CI/CD and other application architecture skills.
 
-Here are some ideas to get you started:
+- :zap: In my free time, I solve problems on CodeForces and read habr articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox: Find my contacts at [ildan-dev.ru](ildan-dev.ru)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1ldaun&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ldaun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
