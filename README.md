@@ -6,7 +6,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on CodeForces and read habr articles.
 
-- :mailbox: Find my contacts at [ildan-dev.ru](ildan-dev.ru)
+- :mailbox: Find my contacts at [ildan-dev.ru](https://ildan-dev.ru)
 
 ---
 
