@@ -4,8 +4,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring CI/CD and other application architecture skills.
 
-- :zap: In my free time, I solve problems on CodeForces and read habr articles.
+- :zap: In my free time, I solve problems on CodeForces, read [habr articles](https://habr.com/) and try new practise (like a [new frameworks](https://habr.com/ru/articles/564990/)).
 
+- :heavy_check_mark: Have a good experience of participating in hackathons. I'm friendly accept invites to teams for this.
+  
 - :mailbox: Find my contacts at [ildan-dev.ru](https://ildan-dev.ru)
 
 ---
